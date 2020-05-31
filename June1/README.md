@@ -1,4 +1,4 @@
-![](ME.PNG)
+![](ME.png)
 
 ###Problems:
 

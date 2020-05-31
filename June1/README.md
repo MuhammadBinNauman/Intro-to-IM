@@ -6,4 +6,4 @@ It was a lot of trail and error with the coordinates, I tried to create a mouse 
 
 ###Note:
 
-if you try to draw more than around 120 lines the software stops drawing more thing. there is a low cap on the amount distinct drawing you can make
+if you try to draw more than around 120 lines the software stops drawing more thing. there is a low cap on the amount of distinct drawing you can make

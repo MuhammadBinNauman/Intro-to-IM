@@ -2,16 +2,16 @@
 
 The Program generates random rectangles and circles at different angles and sizes
 
-[]!(assignment_pic1.png)
+![](assignment_pic1.png)
 
 #### First Layer
 random upright rectangles 
 
-[]!(assignment_pic2.png)
+![](assignment_pic2.png)
 ### Second Layer
 added random circles and added a random rotation to the code
 
-[]!(assignment_pic3.png)
+![](assignment_pic3.png)
 ### Third Layer
 added random monochrome background color and made some variable fixes for more consistent results
 

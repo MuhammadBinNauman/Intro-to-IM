@@ -15,6 +15,11 @@ made a black rectangle background and spawned rectangles with randomized coordin
 
 added the mouse controlled player and adjested the values of the enemy projectiles so that they would be further apart
 
+#### Third Layer
+
+![](game3.png)
+
+Added score that is tied to the frame rate.
 
 #### Problems
 

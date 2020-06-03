@@ -56,6 +56,9 @@ void draw()
   fill(0, 0, 200);
   rectMode(RADIUS);                      // rectangles will be made from the center rather than the side
   rect(mouseX, mouseY, 12.5, 12.5);      // the player is a blue rectangle controlled by the mouse
+  fill(0,255,50);
+  textSize(32);
+  text(count, 10, 30);    // display the score the player has
   fill(255, 50, 0);
   if (frameCount%5 == 0)                // spawn a new enemy after every 5 frames
   {

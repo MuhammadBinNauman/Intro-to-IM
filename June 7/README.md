@@ -33,3 +33,31 @@ added color to all the planets and fixed the problem with the rings as well as a
 getting the transformations was tricky but source added by the professor https://www.youtube.com/watch?v=o9sgjuh-CBM helped fix the problem.
 
 somtimes the radius is the diameter and vice-versa half or increase values if arguments are different from what you expected.
+
+
+## Assignment 2 CSV Word generator
+
+#### Layer 1
+
+![](text1.png)
+
+Displayed text by joining words from rows of a CSV file
+
+#### Layer 2
+
+![](text2.png)
+
+Implemeted random colors and changing words after a certain time
+
+#### Layer 3
+
+![](text3.png)
+
+Added random colors for the background and circle surrounding the text
+
+
+#### Difficulties
+
+getting the program to read the CSV was a headache but rewatching the lecture helped me learn what to do and the example provided by the professor https://github.com/aaronsherwood/introduction_interactive_media/blob/master/processingExamples/textExamples/tableSaveLoad/tableSaveLoad.pde
+made it clear to me on how to tackle the problem
+

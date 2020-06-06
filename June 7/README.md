@@ -37,6 +37,10 @@ somtimes the radius is the diameter and vice-versa half or increase values if ar
 
 ## Assignment 2 CSV Word generator
 
+The program reads words from a csv file and combines the words every row and display them.
+The text is displayed in random colors and after a set interval the current color of the text 
+is given to the circle around the text and after a certain time the color of the text is given
+
 #### Layer 1
 
 ![](text1.png)

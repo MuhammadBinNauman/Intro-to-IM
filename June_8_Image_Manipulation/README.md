@@ -21,6 +21,8 @@ added another image
 
 added another image and make two images a array of images that cycled through all the images to make a animation
 
+#### Layer 4
+
 ![](pic4.png)
 
  added image that moved across the screen 

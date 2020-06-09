@@ -62,10 +62,10 @@ added a new class bonus points that will give extra points when collected
 
 #### Difficulty
 
-Collision:
+Collision: collsions were not working as the hitbox was too small. used distence formula to calculate the collsion as the solution
 
-Endgame:
+Endgame: putting endgame function in draw function crashed the game. dont put a while loop in draw its a good chance it will crash. made a boolean variable as the endgame indicator and used it as a IF statemt in the draw function
 
-Sound: 
+Sound: for some reason sound didnt work with the library. used another library "Minim" to make the sound work. why it didnt work your guess is as good as mine.
 
 

@@ -4,7 +4,8 @@
 
 The Player will controll a ship that will go through a asteroid field that will increase in density as the time passes The player must avoid collision from the asteroids while also collecting optional bonus points until a caertain time has passed. after that the game will be won and the final score will be displayed
 
-Inspirarion: any old space game 
+Inspirarion: any old space game  
+
 Outside source: Minim sound library 
 
 Muhammad Bin Nauman mbn304

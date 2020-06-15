@@ -5,6 +5,11 @@
 // button is pressed than the LED on will turn off and the LED off will turn on
 
 
+//Muhammad Bin Nauman mbn304
+
+//Due: 16 June 1AM
+
+
 int pot = A0;   // port of the potentiometer 
 int button = 2; // port of the button that will take the reading
 int power = 7;  // port of the wire that will give the voltage to the LED depending on the state of the button

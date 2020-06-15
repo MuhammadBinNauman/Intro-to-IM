@@ -41,6 +41,8 @@ The redboard connector has really bad contact points had to bend the wires inord
 
 Forgot to use a resistor with one of the LED's caused it to explode
 
+The circuit schematic was hard because of the symbols for some things but I think I got it right
+
 #### Helpful Source
 
 Sparkfun has a youtube channel that does tutorials

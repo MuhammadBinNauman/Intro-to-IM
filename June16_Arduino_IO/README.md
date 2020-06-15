@@ -23,9 +23,7 @@ First made a circuit for the potentiometer to see if it works. used the example 
 ![](pic2.jpg)
 ![](pic3.jpg)
 
-added a RGB LED. connected the three color pins to 330 Ohm resistors and added the ground wire to the 4th pin of the LED. connected the three RGB pins to Digital PWN section of the board. 
-
-Displayed a square that is controlled by a mouse 
+added a RGB LED. connected the three color pins to 330 Ohm resistors and added the ground wire to the 4th pin of the LED. connected the three RGB pins to Digital PWN section of the board. used the values taken by the pin connected to the potentiometer to give different Values to the RGB pins of the LED. this gives the LED different colors depending on the how high or low the potentiometer is.
 
 #### Digital Circuit
 

@@ -17,9 +17,13 @@ Due: 16 June 1AM
 #### Analog Circuit
 
 ![](pic1.jpg)
+
+First made a circuit for the potentiometer to see if it works. used the example given in class
+
 ![](pic2.jpg)
 ![](pic3.jpg)
-![](pic4.jpg)
+
+added a RGB LED. connected the three color pins to 330 Ohm resistors and added the ground wire to the 4th pin of the LED. connected the three RGB pins to Digital PWN section of the board. 
 
 Displayed a square that is controlled by a mouse 
 
@@ -28,7 +32,9 @@ Displayed a square that is controlled by a mouse
 ![](pic5.jpg)
 ![](pic6.jpg)
 
-Created a array that would spawn enemies in as red squares at random locations 
+added a button that would power a LED (with resistor) when pressed and connected a wire that would detect if electricity would pass through the button. plugged the wire into a pin on the Digital side of the red board.
+
+added another LED that would turn off if the button LED was on and vice versa. this was done by connecting a wire to a Digital pin on the redboard that would give it a high value whenever the value of the button connected LED was Low and vice versa.
 
 
 #### Difficulty

@@ -13,7 +13,7 @@ Due: 17 June 1AM
 ![](sketch.jpg)
 
 
-#### Analog Circuit
+#### Digital Circuit
 
 ![](pic1.jpg)
 ![](pic2.jpg)
@@ -23,7 +23,7 @@ added a speaker with one wire that is connected to the digital pin on the redboa
 added a potentiometer that controlled the resistence and connected two ground wires to it. one ground wire to the negative pin of the breadboard and the other to the speaker.
 added random frequencies to the buttons when pressed and would send the info to the speaker to play and have the volume be controlled by the potentiometer.
 
-#### Digital Circuit
+#### Analog Circuit
 
 ![](pic3.jpg)
 ![](pic4.jpg)
@@ -32,6 +32,9 @@ added a light sensor and conected one end to a 10K resistor that would be inturn
 added a power wire to the other leg of the light sensor and a wire that would read the analog reading from the light sensor.
 the reading from the sensor would be converted into sound frequency values when one of the buttons is pressed.
 
+#### Video
+
+video of the two stages are avalible as mov1 and mov2 in the folder
 
 #### Difficulty
 

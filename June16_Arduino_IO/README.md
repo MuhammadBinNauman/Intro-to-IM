@@ -43,6 +43,8 @@ Forgot to use a resistor with one of the LED's caused it to explode
 
 The circuit schematic was hard because of the symbols for some things but I think I got it right
 
-#### Helpful Source
+#### Helpful Source/ Things
 
 Sparkfun has a youtube channel that does tutorials
+
+you can use the screwdriver to easily turn the potentiometer

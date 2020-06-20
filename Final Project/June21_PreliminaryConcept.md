@@ -7,7 +7,7 @@ In the processing part of the game. there will be 4 rows were nodes will come do
 On the breadboard there will be 4 distictly colored button that would relate to each row in the game. there may also be a potentiometer that would speed up the game or slow it down as it would be connected to the frame count. A speaker will also be connected to the breadboard that will allow it play distinct sounds related to each button.
 
 
-![](pic1.png)
+![](pic1.jpg)
 
 This how the controller looks like in the game that it will be based on.
 

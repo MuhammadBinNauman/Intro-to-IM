@@ -19,19 +19,19 @@ the program uses a light sensor with ground and power wires, 10K Ohm resistor as
 
 #### layer 1
 
-![](pic4.png)
+![](pic5.png)
 
 added two circles one controlled by the potentiometer to move left and right and the other controlled by the light sensor to control the color. the background color is also controlled by the light sensor
 
 #### layer 2
 
-![](pic5.png)
+![](pic6.png)
 
 added a ground and some trees that would also change the color according to the light avalible. made the sun move up and down as well as change color to become either the sun or moon. 
 
 #### layer 3
 
-![](pic6.png)
+![](pic7.png)
 
 added randomly generated stars that would appear when the light sensor vlaue drops below a certain value. corrected colors to make them better with the day and night cycle. 
 

@@ -11,4 +11,30 @@ On the breadboard there will be 4 distictly colored button that would relate to 
 
 This how the controller looks like in the game that it will be based on.
 
+# UPDATE V2.0
 
+## Important things 
+
+needs to communicate with the digital buttons between processing and arduino ide
+
+there should be 4 different rows that will send circle across the screen that will have colors corrosponding to the button colors
+
+there should be a marker on each row that will tell when the player should press the button when the circle touches the marker 
+
+a formula that will calculate the score of the player depending on the accuracy of the button press
+
+score and final score to be displayed
+
+music should be playing in the background 
+
+the buttons could be random as making presses according to the song may be to hard and time consuming 
+
+## Extra things
+
+music related visuals 
+
+a way to control the speed of the game 
+
+attach a LCD display to the breadboard that will also display the score 
+
+more visuals 

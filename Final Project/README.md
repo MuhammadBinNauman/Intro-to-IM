@@ -12,6 +12,10 @@
 
 ![](pic6.png)
 
+![](pic7.png)
+
+![](pic8.png)
+
 ### Video
 
 There is a video as Mov1 avalible to see a demonstration

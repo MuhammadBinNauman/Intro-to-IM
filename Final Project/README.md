@@ -38,3 +38,18 @@ The circuit is simple it has 4 buttons each connected to ground and each connect
 ### Video
 
 There is a video as Mov1 and Mov2(the finished stage) avalible to see a demonstration
+
+### Sources
+
+for the music waves I refered to the builtin example for minin sound library. Example->Contributed libraries-> Minin-> AudioPlayer->loop
+
+for the background video I refered to the example provided by minim.effects library at http://code.compartmental.net/tools/minim/quickstart/
+
+for the video itself its a .mov video from https://pixabay.com/videos/search/looping/?pagi=1
+
+### Difficulties
+
+I had a lot of problems with the notes and button presses a lot of it was trail and error of all the possible solution I could think of
+until one worked. most the problems was just accumalted small errors
+
+I had problems with processing reading the values from arduino but the professor helped me understand how the code of slicing worked and where my problem was.

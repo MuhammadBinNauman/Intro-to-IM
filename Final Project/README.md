@@ -12,7 +12,7 @@ Due june 24 1PM
 
 ### Circuit
 
-![](sketch.jpg)
+![](skech.jpg)
 ![](sketch2.jpg)
 
 The circuit is simple it has 4 buttons each connected to ground and each connected to its own digital pins

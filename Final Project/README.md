@@ -14,26 +14,43 @@ The circuit is simple it has 4 buttons each connected to ground and each connect
 ### Layer 1
 ![](pic1.png)
 
+make the notes class that spawned and sorted each of the notes to its own row accoring to its color
+
 ### Layer 2
 ![](pic2.png)
+
+made a loop sequence in the draw function that allowed the notes after a certain time rather than all toghether 
 
 ### Layer 3
 ![](pic3.png)
 
+made the marker class what told the player when to press the button and the marker also changed color when a note passed through it
+
 ### Layer 4
 ![](pic4.png)
+
+made the button_press class that allowed the notes passing through the marker to give score if the right button is pressed
 
 ### Layer 5
 ![](pic5.png)
 
+fixed a ton of bugs with the button press class / spawning and changed the background for a darker one.
+also added score to the top left
+
 ### Layer 6
 ![](pic6.png)
+
+fixed more bugs with the button press class letting it be more reliable and added lines to have better visual clarity with the notes
 
 ### Layer 7
 ![](pic7.png)
 
+added a endgame function that give score/total_score_possible and a rating on how well you did
+
 ### Layer 8
 ![](pic8.png)
+
+added animated stars that will appear when a certain score is reached 
 
 ### Video
 

@@ -4,6 +4,12 @@
 
 It is a Rhythm based game where the player must correcly press buttons at the right time. the buttons corrospond to colored nodes that go across the screen until they reach a mark where the appropriate button is presses. on the breadboard you have 4 distinct colored buttons that corrospond to similar colored nodes that come on the screen.when the nodes reach the rectangle at the end of the screen the playermust push the appropriatly colored button in accordance to the timing of the node  reaching the rectangle.when the right button is pressed at the right time 1 is added to the score if the wrong button is pressed than the score is reduced by 1 if you gain enough score than a star will appear on the top right of the screen. upto 3 stars the game would end after the music has finished its first loop after the game has ended the total score and score gained is displayed and a rating is given depending on the score
 
+Inspiration: guitar hero
+
+Muhammad Bin Nauman
+
+Due june 24 1PM
+
 ### Circuit
 
 ![](sketch1.jpg)

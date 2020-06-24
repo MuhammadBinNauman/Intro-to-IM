@@ -20,6 +20,7 @@ make the notes class that spawned and sorted each of the notes to its own row ac
 ![](pic2.png)
 
 made a loop sequence in the draw function that allowed the notes after a certain time rather than all toghether 
+added the music waves see sources below for where to find the souce form where I got it from
 
 ### Layer 3
 ![](pic3.png)
